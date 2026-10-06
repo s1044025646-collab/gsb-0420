@@ -1,0 +1,9 @@
+{
+  "entries": [
+    { "recordId": "black-white", "foreground": "000000", "background": "FFFFFF", "canvas": "FFFFFF", "category": "normal" },
+    { "recordId": "semi-black", "foreground": "000000CC", "background": "FFFFFF", "canvas": "FFFFFF", "category": "normal" },
+    { "recordId": "same-color", "foreground": "777777", "background": "777777", "canvas": "FFFFFF", "category": "normal" },
+    { "recordId": "bad-canvas", "foreground": "000000", "background": "FFFFFF", "canvas": "FFFFFF80", "category": "normal" },
+    { "recordId": "bad-hex", "foreground": "ZZZZZZ", "background": "FFFFFF", "canvas": "FFFFFF", "category": "normal" }
+  ]
+}
