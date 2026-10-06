@@ -1,0 +1,19 @@
+{
+  "name": "wcag-contrast-checker",
+  "version": "1.0.0",
+  "description": "本地 WCAG 文本对比度与透明叠色核验后端（API + CLI）",
+  "type": "module",
+  "bin": {
+    "wcag-cc": "dist/src/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "tsc -p tsconfig.json && node --test \"dist/test/*.test.js\"",
+    "start": "node dist/src/server.js",
+    "demo": "npm run build && node dist/src/cli.js demo"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "body-black-white",
+    "foreground": "000000",
+    "background": "FFFFFF",
+    "canvas": "FFFFFF",
+    "category": "normal"
+  },
+  {
+    "id": "translucent-black-80",
+    "foreground": "000000CC",
+    "background": "FFFFFF",
+    "canvas": "FFFFFF",
+    "category": "normal"
+  },
+  {
+    "id": "large-gray",
+    "foreground": "000000",
+    "background": "747474",
+    "canvas": "747474",
+    "category": "large"
+  },
+  {
+    "id": "invisible-text",
+    "foreground": "00000000",
+    "background": "7F7F7F",
+    "canvas": "FFFFFF",
+    "category": "normal"
+  },
+  {
+    "id": "bad-canvas",
+    "foreground": "000000",
+    "background": "FFFFFF",
+    "canvas": "FFFFFF80",
+    "category": "normal"
+  },
+  {
+    "id": "bad-hex",
+    "foreground": "ZZ0011",
+    "background": "FFFFFF",
+    "canvas": "FFFFFF",
+    "category": "normal"
+  }
+]
